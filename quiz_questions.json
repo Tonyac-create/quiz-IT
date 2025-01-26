@@ -1,0 +1,613 @@
+[
+    {
+        "question": "Quel langage est principalement utilisé pour le développement web côté client ?",
+        "options": [
+            "Python",
+            "JavaScript",
+            "C++",
+            "Java"
+        ],
+        "answer": "JavaScript"
+    },
+    {
+        "question": "Que signifie HTTP ?",
+        "options": [
+            "HyperText Transfer Protocol",
+            "High Transfer Text Protocol",
+            "HyperTool Transfer Protocol",
+            "HyperText Transport Package"
+        ],
+        "answer": "HyperText Transfer Protocol"
+    },
+    {
+        "question": "Qui est considéré comme le père de l'informatique ?",
+        "options": [
+            "Alan Turing",
+            "Charles Babbage",
+            "Tim Berners-Lee",
+            "Steve Jobs"
+        ],
+        "answer": "Charles Babbage"
+    },
+    {
+        "question": "Quelle commande Git est utilisée pour envoyer des modifications à un dépôt distant ?",
+        "options": [
+            "git push",
+            "git commit",
+            "git merge",
+            "git pull"
+        ],
+        "answer": "git push"
+    },
+    {
+        "question": "Quel framework JavaScript utilise une Virtual DOM ?",
+        "options": [
+            "Angular",
+            "Vue.js",
+            "React.js",
+            "Svelte"
+        ],
+        "answer": "React.js"
+    },
+    {
+        "question": "Quelle est la complexité moyenne de la recherche dans une table de hachage ?",
+        "options": [
+            "O(1)",
+            "O(n)",
+            "O(log n)",
+            "O(n log n)"
+        ],
+        "answer": "O(1)"
+    },
+    {
+        "question": "En quelle année a été créé le premier ordinateur ENIAC ?",
+        "options": [
+            "1943",
+            "1945",
+            "1946",
+            "1950"
+        ],
+        "answer": "1946"
+    },
+    {
+        "question": "Que fait la commande `ls` en Linux ?",
+        "options": [
+            "Liste les fichiers et répertoires",
+            "Supprime un fichier",
+            "Copie un fichier",
+            "Change le répertoire"
+        ],
+        "answer": "Liste les fichiers et répertoires"
+    },
+    {
+        "question": "Quel est le port standard pour le protocole HTTPS ?",
+        "options": [
+            "80",
+            "21",
+            "443",
+            "22"
+        ],
+        "answer": "443"
+    },
+    {
+        "question": "Lequel de ces langages est principalement utilisé pour les applications iOS ?",
+        "options": [
+            "Swift",
+            "Kotlin",
+            "Java",
+            "C#"
+        ],
+        "answer": "Swift"
+    },
+    {
+        "question": "Que signifie l'acronyme SQL ?",
+        "options": [
+            "Structured Query Language",
+            "Simple Query Logic",
+            "Standard Query List",
+            "Structured Query Logic"
+        ],
+        "answer": "Structured Query Language"
+    },
+    {
+        "question": "Quel outil est utilisé pour la conteneurisation des applications ?",
+        "options": [
+            "Docker",
+            "Kubernetes",
+            "VirtualBox",
+            "VMware"
+        ],
+        "answer": "Docker"
+    },
+    {
+        "question": "Quel navigateur est considéré comme le premier navigateur web graphique ?",
+        "options": [
+            "Netscape Navigator",
+            "Mosaic",
+            "Internet Explorer",
+            "Opera"
+        ],
+        "answer": "Mosaic"
+    },
+    {
+        "question": "Quelle entreprise a développé le langage Python ?",
+        "options": [
+            "Microsoft",
+            "Google",
+            "Apple",
+            "Aucune des réponses"
+        ],
+        "answer": "Aucune des réponses"
+    },
+    {
+        "question": "Que fait un serveur DNS ?",
+        "options": [
+            "Stocke des pages web",
+            "Convertit les noms de domaine en adresses IP",
+            "Transfère des emails",
+            "Gère les certificats SSL"
+        ],
+        "answer": "Convertit les noms de domaine en adresses IP"
+    },
+    {
+        "question": "Quelle commande en JavaScript est utilisée pour afficher un message dans la console ?",
+        "options": [
+            "console.log()",
+            "print()",
+            "echo()",
+            "write()"
+        ],
+        "answer": "console.log()"
+    },
+    {
+        "question": "Quel est le rôle d'un pare-feu ?",
+        "options": [
+            "Bloquer les logiciels malveillants",
+            "Contrôler le trafic réseau",
+            "Crypter les données",
+            "Surveiller les utilisateurs"
+        ],
+        "answer": "Contrôler le trafic réseau"
+    },
+    {
+        "question": "Quelle est la taille d'un octet ?",
+        "options": [
+            "1 bit",
+            "4 bits",
+            "8 bits",
+            "16 bits"
+        ],
+        "answer": "8 bits"
+    },
+    {
+        "question": "Que signifie CRUD en développement web ?",
+        "options": [
+            "Create, Read, Update, Delete",
+            "Connect, Run, Update, Debug",
+            "Create, Run, Upload, Download",
+            "Compile, Read, Use, Debug"
+        ],
+        "answer": "Create, Read, Update, Delete"
+    },
+    {
+        "question": "Quel est le langage principal utilisé pour écrire les scripts dans un fichier HTML ?",
+        "options": [
+            "Python",
+            "Java",
+            "JavaScript",
+            "Ruby"
+        ],
+        "answer": "JavaScript"
+    },
+    {
+        "question": "Quel est le but principal d'un antivirus ?",
+        "options": [
+            "Bloquer les tentatives d'intrusion",
+            "Détecter et supprimer les logiciels malveillants",
+            "Crypter les fichiers",
+            "Analyser les performances du système"
+        ],
+        "answer": "Détecter et supprimer les logiciels malveillants"
+    },
+    {
+        "question": "Que signifie l'acronyme VPN ?",
+        "options": [
+            "Virtual Private Network",
+            "Virtual Protocol Network",
+            "Virtual Public Network",
+            "Verified Private Network"
+        ],
+        "answer": "Virtual Private Network"
+    },
+    {
+        "question": "Quelle technique est utilisée pour protéger un mot de passe en stockage ?",
+        "options": [
+            "Cryptage",
+            "Hachage",
+            "Compression",
+            "Codage"
+        ],
+        "answer": "Hachage"
+    },
+    {
+        "question": "Que signifie le terme phishing ?",
+        "options": [
+            "Attaquer un site web",
+            "Tromper les utilisateurs pour obtenir des informations sensibles",
+            "Propager un virus",
+            "Scanner un réseau pour détecter des vulnérabilités"
+        ],
+        "answer": "Tromper les utilisateurs pour obtenir des informations sensibles"
+    },
+    {
+        "question": "Quel type de logiciel est utilisé pour surveiller l'activité en ligne d'un utilisateur ?",
+        "options": [
+            "Spyware",
+            "Adware",
+            "Malware",
+            "Trojan"
+        ],
+        "answer": "Spyware"
+    },
+    {
+        "question": "Quelle norme de sécurité est utilisée pour protéger les cartes bancaires en ligne ?",
+        "options": [
+            "SSL/TLS",
+            "PCI DSS",
+            "ISO 27001",
+            "GDPR"
+        ],
+        "answer": "PCI DSS"
+    },
+    {
+        "question": "Quel type d'attaque consiste à surcharger un serveur avec un trafic excessif ?",
+        "options": [
+            "Phishing",
+            "DDoS",
+            "Man-in-the-middle",
+            "Injection SQL"
+        ],
+        "answer": "DDoS"
+    },
+    {
+        "question": "Que signifie le terme ransomware ?",
+        "options": [
+            "Un logiciel qui crypte les données et demande une rançon",
+            "Un logiciel pour surveiller les employés",
+            "Un outil pour réparer un système infecté",
+            "Un logiciel publicitaire"
+        ],
+        "answer": "Un logiciel qui crypte les données et demande une rançon"
+    },
+    {
+        "question": "Quel protocole est utilisé pour sécuriser les emails ?",
+        "options": [
+            "SMTP",
+            "TLS",
+            "POP3",
+            "IMAP"
+        ],
+        "answer": "TLS"
+    },
+    {
+        "question": "Qu'est-ce qu'une attaque brute force ?",
+        "options": [
+            "Essayer toutes les combinaisons possibles pour deviner un mot de passe",
+            "Infecter un système avec un virus",
+            "Espionner les communications",
+            "Inonder un réseau de trafic"
+        ],
+        "answer": "Essayer toutes les combinaisons possibles pour deviner un mot de passe"
+    },
+    {
+        "question": "Quel est l'objectif principal d'une analyse de vulnérabilités ?",
+        "options": [
+            "Identifier les failles de sécurité",
+            "Optimiser les performances du réseau",
+            "Installer des mises à jour",
+            "Bloquer les attaques en temps réel"
+        ],
+        "answer": "Identifier les failles de sécurité"
+    },
+    {
+        "question": "Que signifie le terme zero-day ?",
+        "options": [
+            "Une vulnérabilité exploitée avant qu'elle ne soit connue",
+            "Un type de virus",
+            "Un outil de sécurité",
+            "Un protocole réseau"
+        ],
+        "answer": "Une vulnérabilité exploitée avant qu'elle ne soit connue"
+    },
+    {
+        "question": "Quel est le rôle d'un pare-feu dans la cybersécurité ?",
+        "options": [
+            "Bloquer les connexions non autorisées",
+            "Détecter les logiciels malveillants",
+            "Crypter les données",
+            "Analyser les performances système"
+        ],
+        "answer": "Bloquer les connexions non autorisées"
+    },
+    {
+        "question": "Que fait une attaque par injection SQL ?",
+        "options": [
+            "Modifie les requêtes SQL pour accéder à des données non autorisées",
+            "Crypte les bases de données",
+            "Efface les données",
+            "Installe un logiciel malveillant"
+        ],
+        "answer": "Modifie les requêtes SQL pour accéder à des données non autorisées"
+    },
+    {
+        "question": "Que signifie l'acronyme SSL ?",
+        "options": [
+            "Secure Socket Layer",
+            "Simple Security Layer",
+            "Strong Socket Link",
+            "Safe Secure Link"
+        ],
+        "answer": "Secure Socket Layer"
+    },
+    {
+        "question": "Quelle est une pratique recommandée pour sécuriser un réseau Wi-Fi ?",
+        "options": [
+            "Désactiver le SSID",
+            "Utiliser le chiffrement WPA3",
+            "Changer fréquemment de routeur",
+            "Bloquer les appareils mobiles"
+        ],
+        "answer": "Utiliser le chiffrement WPA3"
+    },
+    {
+        "question": "Qu'est-ce qu'un honeypot en cybersécurité ?",
+        "options": [
+            "Un système conçu pour attirer les attaquants",
+            "Un logiciel de cryptage",
+            "Une technique de phishing",
+            "Un outil pour surveiller les employés"
+        ],
+        "answer": "Un système conçu pour attirer les attaquants"
+    },
+    {
+        "question": "Quelle organisation est responsable de la gestion des vulnérabilités CVE ?",
+        "options": [
+            "MITRE",
+            "NIST",
+            "ISO",
+            "ICANN"
+        ],
+        "answer": "MITRE"
+    },
+    {
+        "question": "Quelle est la première étape d'une attaque MITM (Man-in-the-Middle) ?",
+        "options": [
+            "Intercepter le trafic",
+            "Modifier les données",
+            "Décrypter les communications",
+            "Usurper une identité"
+        ],
+        "answer": "Intercepter le trafic"
+    },
+    {
+        "question": "Que signifie le terme hash collision en cryptographie ?",
+        "options": [
+            "Deux entrées différentes produisent le même hachage",
+            "Un hachage devient invalide",
+            "Un algorithme est cassé",
+            "Les données sont corrompues"
+        ],
+        "answer": "Deux entrées différentes produisent le même hachage"
+    },
+    {
+        "question": "Qu'est-ce que le concept de 'Zero Trust' en cybersécurité ?",
+        "options": [
+            "Un réseau où personne n'est autorisé",
+            "Un modèle de sécurité qui ne fait confiance à aucun utilisateur par défaut",
+            "Un système de cryptage absolu",
+            "Un pare-feu avancé"
+            ],
+            "answer": "Un modèle de sécurité qui ne fait confiance à aucun utilisateur par défaut"
+        },
+        {
+            "question": "Qu'est-ce que l'architecture microservices ?",
+            "options": [
+                "Un type de processeur miniature",
+                "Une approche de développement avec des services indépendants et modulaires",
+                "Un système de gestion de bases de données",
+                "Un langage de programmation"
+            ],
+            "answer": "Une approche de développement avec des services indépendants et modulaires"
+        },
+        {
+            "question": "Que signifie l'acronyme MLOps ?",
+            "options": [
+                "Machine Learning Operations",
+                "Modern Logical Operations",
+                "Managed Logical Processes",
+                "Machine Linked Operations"
+            ],
+            "answer": "Machine Learning Operations"
+        },
+        {
+            "question": "Qu'est-ce que la blockchain ?",
+            "options": [
+                "Un nouveau type de chaîne de montagnes",
+                "Un registre distribué et sécurisé",
+                "Un algorithme de cryptage",
+                "Un système de stockage cloud"
+            ],
+            "answer": "Un registre distribué et sécurisé"
+        },
+        {
+            "question": "Qu'est-ce que le 'edge computing' ?",
+            "options": [
+                "Un type de calcul sur les bords d'un écran",
+                "Un traitement de données près de la source de génération",
+                "Une technique de design de processeur",
+                "Un nouveau type de réseau"
+            ],
+            "answer": "Un traitement de données près de la source de génération"
+        },
+        {
+            "question": "Quel est le principe fondamental de la cryptographie asymétrique ?",
+            "options": [
+                "Utiliser deux clés différentes pour chiffrer et déchiffrer",
+                "Utiliser la même clé pour chiffrer et déchiffrer",
+                "Chiffrer uniquement les données sensibles",
+                "Crypter les données sur un seul canal"
+            ],
+            "answer": "Utiliser deux clés différentes pour chiffrer et déchiffrer"
+        },
+        {
+            "question": "Qu'est-ce que le 'machine learning non supervisé' ?",
+            "options": [
+                "Un apprentissage sans intervention humaine",
+                "Un apprentissage sans données étiquetées",
+                "Un apprentissage avec un superviseur technique",
+                "Un apprentissage uniquement par observation"
+            ],
+            "answer": "Un apprentissage sans données étiquetées"
+        },
+        {
+            "question": "Que représente le CAP Theorem en systèmes distribués ?",
+            "options": [
+                "Un modèle de sécurité réseau",
+                "Un compromis entre Cohérence, Disponibilité et Tolérance de partition",
+                "Un algorithme de routage",
+                "Un protocole de communication"
+            ],
+            "answer": "Un compromis entre Cohérence, Disponibilité et Tolérance de partition"
+        },
+        {
+            "question": "Qu'est-ce que GraphQL ?",
+            "options": [
+                "Un langage de requête pour les bases de données graphiques",
+                "Un langage de requête flexible pour les API",
+                "Un type de base de données",
+                "Un framework de visualisation"
+            ],
+            "answer": "Un langage de requête flexible pour les API"
+        },
+        {
+            "question": "Qu'est-ce que le concept de 'serverless' en informatique ?",
+            "options": [
+                "Un système sans serveur physique",
+                "Un modèle où le fournisseur gère l'infrastructure",
+                "Un type de réseau sans fil",
+                "Un système de calcul distribué"
+            ],
+            "answer": "Un modèle où le fournisseur gère l'infrastructure"
+        },
+        {
+            "category": "Développement Logiciel",
+            "question": "Qu'est-ce que le principe SOLID en développement logiciel ?",
+            "options": [
+                "Un ensemble de principes de conception orientée objet",
+                "Une méthode de test logiciel",
+                "Un framework de développement",
+                "Un langage de programmation"
+            ],
+            "answer": "Un ensemble de principes de conception orientée objet"
+        },
+        {
+            "category": "Développement Logiciel",
+            "question": "Que signifie l'acronyme DRY en programmation ?",
+            "options": [
+                "Data Retrieval Yield",
+                "Don't Repeat Yourself",
+                "Dynamic Recursive Yielding",
+                "Data Reusable Yield"
+            ],
+            "answer": "Don't Repeat Yourself"
+        },
+        {
+            "category": "Développement Logiciel",
+            "question": "Qu'est-ce qu'un design pattern en développement logiciel ?",
+            "options": [
+                "Un modèle de conception réutilisable",
+                "Un type de langage de programmation",
+                "Une méthode de débogage",
+                "Un algorithme de compression"
+            ],
+            "answer": "Un modèle de conception réutilisable"
+        },
+        {
+            "category": "Développement Logiciel",
+            "question": "Quel est le but principal de la méthodologie Agile ?",
+            "options": [
+                "Maximiser la documentation",
+                "Réduire les coûts de développement",
+                "Améliorer la flexibilité et la livraison continue",
+                "Standardiser les processus de développement"
+            ],
+            "answer": "Améliorer la flexibilité et la livraison continue"
+        },
+        {
+            "category": "Développement Logiciel",
+            "question": "Qu'est-ce que le test unitaire ?",
+            "options": [
+                "Un test qui vérifie l'interface utilisateur",
+                "Un test qui vérifie une unité de code isolée",
+                "Un test de performance globale",
+                "Un test de sécurité réseau"
+            ],
+            "answer": "Un test qui vérifie une unité de code isolée"
+        },
+        {
+            "category": "Développement Logiciel",
+            "question": "Que signifie l'acronyme API ?",
+            "options": [
+                "Advanced Programming Interface",
+                "Application Programming Interface",
+                "Automated Program Integration",
+                "Application Process Interaction"
+            ],
+            "answer": "Application Programming Interface"
+        },
+        {
+            "category": "Développement Logiciel",
+            "question": "Qu'est-ce que le refactoring en développement logiciel ?",
+            "options": [
+                "L'ajout de nouvelles fonctionnalités",
+                "La restructuration du code sans changer son comportement",
+                "La suppression de code obsolète",
+                "L'optimisation des performances"
+            ],
+            "answer": "La restructuration du code sans changer son comportement"
+        },
+        {
+            "category": "Développement Logiciel",
+            "question": "Qu'est-ce qu'un repository en gestion de version ?",
+            "options": [
+                "Un serveur de base de données",
+                "Un espace de stockage pour le code source",
+                "Un environnement de développement",
+                "Un compilateur"
+            ],
+            "answer": "Un espace de stockage pour le code source"
+        },
+        {
+            "category": "Développement Logiciel",
+            "question": "Qu'est-ce que l'intégration continue (CI) ?",
+            "options": [
+                "Une méthode de test manuel",
+                "Un processus d'automatisation des builds et tests",
+                "Une technique de cryptographie",
+                "Un modèle de gestion de projet"
+            ],
+            "answer": "Un processus d'automatisation des builds et tests"
+        },
+        {
+            "category": "Développement Logiciel",
+            "question": "Qu'est-ce que le principe de séparation des préoccupations ?",
+            "options": [
+                "Une technique de débogage",
+                "La division du code en modules distincts",
+                "Une méthode de compression",
+                "Un algorithme de tri"
+            ],
+            "answer": "La division du code en modules distincts"
+        }
+    
+]
