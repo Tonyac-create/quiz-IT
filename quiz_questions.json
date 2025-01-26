@@ -608,6 +608,116 @@
                 "Un algorithme de tri"
             ],
             "answer": "La division du code en modules distincts"
+        },
+        {
+            "category": "Matériel Informatique",
+            "question": "Qu'est-ce qu'un processeur CPU ?",
+            "options": [
+                "L'unité centrale de traitement d'un ordinateur",
+                "Un périphérique de stockage",
+                "Un logiciel de système d'exploitation",
+                "Un composant réseau"
+            ],
+            "answer": "L'unité centrale de traitement d'un ordinateur"
+        },
+        {
+            "category": "Matériel Informatique",
+            "question": "Quelle est la fonction principale d'une carte mère ?",
+            "options": [
+                "Connecter tous les composants principaux de l'ordinateur",
+                "Stocker des données",
+                "Refroidir le système",
+                "Générer de l'électricité"
+            ],
+            "answer": "Connecter tous les composants principaux de l'ordinateur"
+        },
+        {
+            "category": "Matériel Informatique",
+            "question": "Qu'est-ce que la RAM ?",
+            "options": [
+                "Mémoire vive temporaire",
+                "Disque dur permanent",
+                "Processeur graphique",
+                "Carte réseau"
+            ],
+            "answer": "Mémoire vive temporaire"
+        },
+        {
+            "category": "Matériel Informatique",
+            "question": "Quel est le rôle d'un SSD par rapport à un HDD ?",
+            "options": [
+                "Offrir des performances de lecture/écriture plus rapides",
+                "Augmenter la capacité de stockage",
+                "Améliorer la connexion réseau",
+                "Refroidir l'ordinateur"
+            ],
+            "answer": "Offrir des performances de lecture/écriture plus rapides"
+        },
+        {
+            "category": "Matériel Informatique",
+            "question": "Qu'est-ce qu'une carte graphique (GPU) ?",
+            "options": [
+                "Un processeur spécialisé pour le rendu graphique",
+                "Un périphérique de stockage",
+                "Un composant réseau",
+                "Un système de refroidissement"
+            ],
+            "answer": "Un processeur spécialisé pour le rendu graphique"
+        },
+        {
+            "category": "Matériel Informatique",
+            "question": "Quel est le rôle du BIOS dans un ordinateur ?",
+            "options": [
+                "Initialiser le matériel lors du démarrage",
+                "Gérer les fichiers",
+                "Connecter des périphériques externes",
+                "Crypter les données"
+            ],
+            "answer": "Initialiser le matériel lors du démarrage"
+        },
+        {
+            "category": "Matériel Informatique",
+            "question": "Qu'est-ce qu'un dissipateur thermique ?",
+            "options": [
+                "Un composant qui dissipe la chaleur des composants électroniques",
+                "Un système de stockage de données",
+                "Un périphérique de sécurité",
+                "Un module de communication"
+            ],
+            "answer": "Un composant qui dissipe la chaleur des composants électroniques"
+        },
+        {
+            "category": "Matériel Informatique",
+            "question": "Qu'est-ce que le cache L3 dans un processeur ?",
+    "options": [
+                "Une mémoire rapide partagée entre les cœurs du processeur",
+                "Un système de refroidissement",
+                "Un périphérique de stockage externe",
+                "Un module de communication réseau"
+            ],
+            "answer": "Une mémoire rapide partagée entre les cœurs du processeur"
+        },
+        {
+            "category": "Matériel Informatique",
+            "question": "Quel est le rôle d'une alimentation (PSU) ?",
+            "options": [
+                "Fournir de l'électricité aux composants de l'ordinateur",
+                "Refroidir le système",
+                "Stocker des données",
+                "Gérer la connexion réseau"
+            ],
+            "answer": "Fournir de l'électricité aux composants de l'ordinateur"
+        },
+        {
+            "category": "Matériel Informatique",
+            "question": "Qu'est-ce qu'un contrôleur RAID ?",
+            "options": [
+                "Un système de gestion de plusieurs disques durs pour améliorer les performances ou la redondance",
+                "Un composant réseau",
+                "Un système de refroidissement",
+                "Un module de cryptage"
+            ],
+            "answer": "Un système de gestion de plusieurs disques durs pour améliorer les performances ou la redondance"
         }
     
 ]
